@@ -8,3 +8,4 @@ def check(text):
 	print(check("abc") == False)
 	print(check("abcdefghijklmnopqrstuvwxyz") == True)
 	print(check("ABCDEFGHIGKLMNOPQRSTUVWXYZ") == True)
+	print(check("Quick brown fox jump over the lazy dog"))
