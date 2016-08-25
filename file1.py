@@ -1,2 +1,2 @@
 print(name)
-print(name3)
+print(nname3)
